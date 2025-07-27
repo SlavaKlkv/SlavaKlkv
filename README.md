@@ -9,6 +9,8 @@
 ![Uvicorn](https://img.shields.io/badge/-Uvicorn-111111?style=flat&logo=uvicorn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker--compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -26,6 +28,7 @@
 - **Фреймворки** — Django & DRF (создание, администрирование и поддержка веб-приложений), FastAPI
 - **API** — разработка RESTful API, Pydantic, интеграция сторонних сервисов, парсинг данных, аутентификация через JWT и TokenAuthentication
 - **Базы данных** — MySQL, SQLite, PostgreSQL, работа с ORM, оптимизация запросов
+- **Фоновые задачи и брокеры** – Celery, Redis
 - **Тестирование** — Pytest, Unittest
 - **Контроль версий** — Git
 - **DevOps** — работа с удалённым сервером, Gunicorn, Uvicorn, Nginx, контейнеризация, Docker Compose, CI/CD, автоматизация деплоя (GitHub Actions)

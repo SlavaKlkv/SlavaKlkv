@@ -27,7 +27,7 @@
 - **Python** (ООП, алгоритмы, структуры данных)
 - **Фреймворки** — Django & DRF (создание, администрирование и поддержка веб-приложений), FastAPI
 - **API** — разработка RESTful API, Pydantic, интеграция сторонних сервисов, парсинг данных, аутентификация через JWT и TokenAuthentication
-- **Базы данных** — MySQL, SQLite, PostgreSQL, работа с ORM, оптимизация запросов
+- **Базы данных** — MySQL, SQLite, PostgreSQL, SQL, Django ORM, Alchemic, Alembic, оптимизация запросов
 - **Фоновые задачи и брокеры** – Celery, Redis
 - **Тестирование** — Pytest, Unittest
 - **Контроль версий** — Git

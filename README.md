@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-3178C6?style=flat&logo=pydantic&logoColor=white)
@@ -28,7 +29,7 @@
 ## 🛠 Стек и навыки
 
 - **Python** (ООП, алгоритмы, структуры данных)
-- **Фреймворки** — Django & DRF (создание, администрирование и поддержка веб-приложений), FastAPI
+- **Фреймворки** — Django & DRF (создание, администрирование и поддержка веб-приложений), Flask, FastAPI
 - **API** — разработка RESTful API, Pydantic, интеграция сторонних сервисов, парсинг данных, аутентификация через JWT и TokenAuthentication
 - **Базы данных** — MySQL, SQLite, PostgreSQL, SQL, Django ORM, Alchemic, Alembic, оптимизация запросов
 - **Фоновые задачи и брокеры** – Celery, Redis
@@ -42,6 +43,6 @@
 
 ## 🗨️ Связь
 
-- Telegram: [@slava_kulikov](https://t.me/slava_kulikov)
+- Telegram: [@knvJzx](https://t.me/knvJzx)
 
 ---

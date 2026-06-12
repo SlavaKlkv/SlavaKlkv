@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Junie local memory
+.junie/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+!.env.example

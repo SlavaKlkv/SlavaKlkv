@@ -1,4 +1,4 @@
-<h2 align="center"><img src="./assets/technologies.svg" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/3963be3d-5bf1-4f85-aac1-32b338130763" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
 
 <p>
   <strong>Backend и API</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
   <img align="right" hspace="3" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
 </p>
 <br clear="both">
-<img src="./technology-divider.svg" width="100%" alt="">
+<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <p>
   <strong>AI и автоматизация</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@
   <img align="right" hspace="3" src="https://img.shields.io/badge/LLM-6E56CF?style=flat-square" alt="LLM">
 </p>
 <br clear="both">
-<img src="./technology-divider.svg" width="100%" alt="">
+<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <p>
   <strong>Данные и фоновые процессы</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@
   <img align="right" hspace="3" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
 </p>
 <br clear="both">
-<img src="./technology-divider.svg" width="100%" alt="">
+<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <p>
   <strong>Инфраструктура и delivery</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@
   <img align="right" hspace="3" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
 </p>
 <br clear="both">
-<img src="./technology-divider.svg" width="100%" alt="">
+<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <p>
   <strong>Качество и наблюдаемость</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,7 +62,7 @@
   <img align="right" hspace="3" src="https://img.shields.io/badge/Pytest-0A0A0A?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="Pytest">
 </p>
 <br clear="both">
-<img src="./technology-divider.svg" width="100%" alt="">
+<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <p>
   <strong>Интерфейсы и приложения</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,7 +71,7 @@
   <img align="right" hspace="3" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
 </p>
 <br clear="both">
-<img src="./technology-divider.svg" width="100%" alt="">
+<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <p>
   <strong>Инструменты разработки</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,7 +81,7 @@
 </p>
 <br clear="both">
 
-<h2 align="center"><img src="./assets/competencies.svg" width="28" height="28" align="top" alt=""> &nbsp;Компетенции</h2>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/3c973497-8bb8-4753-8b20-6074eabf4205" width="28" height="28" align="top" alt=""> &nbsp;Компетенции</h2>
 
 | Область | Практический опыт |
 | --- | --- |

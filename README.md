@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="WebSocket">
 </p>
 
-<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
-
 <h3 align="center">AI и автоматизация</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain">&nbsp;
@@ -30,8 +28,6 @@
   <img src="https://img.shields.io/badge/Multimodal_AI-FF4081?style=flat-square" alt="Multimodal AI">
 </p>
 
-<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
-
 <h3 align="center">Данные и фоновые процессы</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">&nbsp;
@@ -42,8 +38,6 @@
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&amp;logo=celery&amp;logoColor=white" alt="Celery">
 </p>
 
-<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
-
 <h3 align="center">Инфраструктура и delivery</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">&nbsp;
@@ -51,8 +45,6 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx">&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
 </p>
-
-<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <h3 align="center">Качество и наблюдаемость</h3>
 <p align="center">
@@ -62,8 +54,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Grafana">
 </p>
 
-<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
-
 <h3 align="center">Интерфейсы и приложения</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">&nbsp;
@@ -71,7 +61,6 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&amp;logo=electron&amp;logoColor=white" alt="Electron">
 </p>
 
-<img src="https://github.com/user-attachments/assets/c39df3a7-719b-4344-8e38-0c10ed179e04" width="100%" alt="">
 
 <h3 align="center">Инструменты разработки</h3>
 <p align="center">

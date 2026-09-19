@@ -76,5 +76,5 @@
 <h2 align="center">🗨️ Связь</h2>
 
 <p align="center">
-  <a href="https://t.me/knvJzx"><img src="https://img.shields.io/badge/Telegram-@knvJzx-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/knvJzx"><img src="https://img.shields.io/badge/Telegram-@knvJzx-2b3137?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>

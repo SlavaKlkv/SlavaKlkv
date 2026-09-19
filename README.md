@@ -1,27 +1,103 @@
-## 💻 Технологии и инструменты
+<h2 align="center"><img src="./assets/technologies.svg" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-3178C6?style=flat&logo=pydantic&logoColor=white) ![Uvicorn](https://img.shields.io/badge/-Uvicorn-111111?style=flat&logo=uvicorn&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-8E44AD?style=flat) ![AI_Automation](https://img.shields.io/badge/AI_Automation-6C63FF?style=flat) ![Multimodal_AI](https://img.shields.io/badge/Multimodal_AI-FF4081?style=flat) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIyLjI4MiA5LjgyMWE1Ljk4NSA1Ljk4NSAwIDAgMC0uNTE2LTQuOTEgNi4wNDYgNi4wNDYgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE1Ljk4NSA1Ljk4NSAwIDAgMC0zLjk5OCAyLjkgNi4wNDYgNi4wNDYgMCAwIDAgLjc0MyA3LjA5NyA1Ljk4IDUuOTggMCAwIDAgLjUxIDQuOTExIDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE1IDIuOUE1Ljk4NSA1Ljk4NSAwIDAgMCAxMy4yNiAyNGE2LjA1NiA2LjA1NiAwIDAgMCA1Ljc3Mi00LjIwNiA1Ljk4NSA1Ljk4NSAwIDAgMCAzLjk5Ny0yLjkgNi4wNTYgNi4wNTYgMCAwIDAtLjc0Ny03LjA3M3pNMTMuMjYgMjIuNDNhNC40NzYgNC40NzYgMCAwIDEtMi44NzYtMS4wNGwuMTQxLS4wODEgNC43NzktMi43NThhLjc5NS43OTUgMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0IDQuNDk0ek0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1IDQuNzgzIDIuNzU5YS43NzEuNzcxIDAgMCAwIC43OCAwbDUuODQzLTMuMzY5djIuMzMyYS4wOC4wOCAwIDAgMS0uMDMzLjA2Mkw5Ljc0IDE5Ljk1YTQuNSA0LjUgMCAwIDEtNi4xNC0xLjY0NnpNMi4zNCA3Ljg5NmE0LjQ4NSA0LjQ4NSAwIDAgMSAyLjM2Ni0xLjk3M1YxMS42YS43NjYuNzY2IDAgMCAwIC4zODguNjc2bDUuODE1IDMuMzU1LTIuMDIgMS4xNjhhLjA3Ni4wNzYgMCAwIDEtLjA3MSAwbC00LjgzLTIuNzg2QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQgNy44NzJ6bTE2LjU5NyAzLjg1NWwtNS44MzMtMy4zODdMMTUuMTE5IDcuMmEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc5MWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA1di01LjM0MmEuNzY2Ljc2NiAwIDAgMC0uMzg3LS42NzZ6bTIuMDEtMy4wMjNsLS4xNDEtLjA4NS00Ljc3NC0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOS4yM1Y2Ljg5N2EuMDY2LjA2NiAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS43OTUuNzk1IDAgMCAwLS4zOTMuNjgxem0xLjA5Ny0yLjM2NWwyLjYwMi0xLjUgMi42MDcgMS41djIuOTk5bC0yLjU5NyAxLjUtMi42MDctMS41eiIvPjwvc3ZnPg==) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker--compose-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A0A0A?style=flat) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) ![Structlog](https://img.shields.io/badge/Structlog-2E3436?style=flat&logo=python&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+<p>
+  <strong>Backend и API</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" hspace="3" src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="WebSocket">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&amp;logo=gunicorn&amp;logoColor=white" alt="Gunicorn">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square&amp;logo=uvicorn&amp;logoColor=white" alt="Uvicorn">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/DRF-A30000?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django REST Framework">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+</p>
+<br clear="both">
+<img src="./technology-divider.svg" width="100%" alt="">
 
----
+<p>
+  <strong>AI и автоматизация</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" hspace="3" src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square" alt="OpenRouter">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white" alt="Ollama">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Codex-000000?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" alt="MCP">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Multimodal_AI-FF4081?style=flat-square" alt="Multimodal AI">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/RAG-4B32C3?style=flat-square" alt="RAG">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/LLM-6E56CF?style=flat-square" alt="LLM">
+</p>
+<br clear="both">
+<img src="./technology-divider.svg" width="100%" alt="">
 
-## 🛠 Компетенции
+<p>
+  <strong>Данные и фоновые процессы</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Celery-37814A?style=flat-square&amp;logo=celery&amp;logoColor=white" alt="Celery">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&amp;logo=qdrant&amp;logoColor=white" alt="Qdrant">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+</p>
+<br clear="both">
+<img src="./technology-divider.svg" width="100%" alt="">
+
+<p>
+  <strong>Инфраструктура и delivery</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" hspace="3" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker Compose">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
+<br clear="both">
+<img src="./technology-divider.svg" width="100%" alt="">
+
+<p>
+  <strong>Качество и наблюдаемость</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Grafana">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Structlog-2E3436?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Structlog">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Pytest-0A0A0A?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="Pytest">
+</p>
+<br clear="both">
+<img src="./technology-divider.svg" width="100%" alt="">
+
+<p>
+  <strong>Интерфейсы и приложения</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&amp;logo=electron&amp;logoColor=white" alt="Electron">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+</p>
+<br clear="both">
+<img src="./technology-divider.svg" width="100%" alt="">
+
+<p>
+  <strong>Инструменты разработки</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" hspace="3" src="https://img.shields.io/badge/Cursor-000000?style=flat-square&amp;logo=cursor&amp;logoColor=white" alt="Cursor">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">
+  <img align="right" hspace="3" src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm">
+</p>
+<br clear="both">
+
+<h2 align="center"><img src="./assets/competencies.svg" width="28" height="28" align="top" alt=""> &nbsp;Компетенции</h2>
 
 | Область | Практический опыт |
 | --- | --- |
-| Backend | Проектирование, разработка, администрирование и поддержка веб-приложений |
-| API и интеграции | REST API, авторизация, WebSocket-взаимодействие, интеграция внешних сервисов и сбор данных |
-| AI и автоматизация | AI-сервисы, мультимодальные сценарии, prompt engineering, генерация и обработка контента |
-| Данные | Проектирование схем, миграции, ORM, оптимизация запросов и фоновые процессы |
-| Качество | Автоматические тесты, отладка, структурированное логирование и code review |
-| Delivery | Контейнеризация, CI/CD, автоматизация деплоя, настройка и сопровождение удалённых серверов |
-| Продуктовые задачи | Telegram-боты, desktop-приложения и базовая веб-вёрстка |
+| Backend | Проектирование, разработка, администрирование и сопровождение веб-приложений и микросервисов |
+| API и интеграции | Проектирование контрактов API, авторизация, взаимодействие в реальном времени, MCP-интеграции, подключение внешних сервисов, сбор и нормализация данных |
+| AI и автоматизация | Разработка агентных систем и решений для поиска по локальным базам знаний, гибридный поиск и ранжирование, ответы с проверяемыми источниками, мультимодальные сценарии и проектирование промптов |
+| Распределённые системы | Проектирование событийного взаимодействия, согласование распределённых операций, гарантии идемпотентности, повторная обработка и изоляция ошибочных сообщений |
+| Данные | Проектирование схем и миграций, обеспечение целостности данных, управление транзакциями и блокировками, оптимизация запросов, кэширование и фоновые процессы |
+| Качество и безопасность | Автоматические и конкурентные тесты, типизация, статический анализ, отладка, структурированное логирование, code review и подтверждение человеком критичных AI-действий |
+| Delivery и наблюдаемость | Контейнеризация, построение CI/CD-процессов, автоматизация деплоя, сбор метрик, мониторинг, построение дашбордов и сопровождение удалённых серверов |
+| Продуктовые задачи | Разработка ботов, десктопных приложений и веб-интерфейсов, мультимодальная обработка контента, сборка и выпуск пользовательских приложений |
 
 ---
 
+<h2 align="center">🗨️ Связь</h2>
 
-
-## 🗨️ Связь
-
-- Telegram: [@knvJzx](https://t.me/knvJzx)
-
----
+<p align="center">
+  <a href="https://t.me/knvJzx"><img src="https://img.shields.io/badge/Telegram-@knvJzx-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>

@@ -1,7 +1,10 @@
 <h2 align="center"><img src="https://github.com/user-attachments/assets/3c973497-8bb8-4753-8b20-6074eabf4205" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
 
+<div align="center">
+
+$\color{#8b949e}\textsf{Backend и API}$
+
 <p align="center">
-  <img src="assets/heading-backend.svg" alt="Backend и API"><br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">&nbsp;
@@ -12,9 +15,13 @@
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&amp;logo=gunicorn&amp;logoColor=white" alt="Gunicorn">&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="WebSocket">
 </p>
+</div>
+
+<div align="center">
+
+$\color{#8b949e}\textsf{AI и автоматизация}$
 
 <p align="center">
-  <img src="assets/heading-ai.svg" alt="AI и автоматизация"><br><br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain">&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">&nbsp;
   <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" alt="MCP">&nbsp;
@@ -27,9 +34,13 @@
   <img src="https://img.shields.io/badge/RAG-4B32C3?style=flat-square" alt="RAG">&nbsp;
   <img src="https://img.shields.io/badge/Multimodal_AI-FF4081?style=flat-square" alt="Multimodal AI">
 </p>
+</div>
+
+<div align="center">
+
+$\color{#8b949e}\textsf{Данные и инфраструктура}$
 
 <p align="center">
-  <img src="assets/heading-data.svg" alt="Данные и инфраструктура"><br><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">&nbsp;
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">&nbsp;
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&amp;logo=qdrant&amp;logoColor=white" alt="Qdrant">&nbsp;
@@ -41,9 +52,13 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx">&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
 </p>
+</div>
+
+<div align="center">
+
+$\color{#8b949e}\textsf{Качество, интерфейсы и инструменты}$
 
 <p align="center">
-  <img src="assets/heading-quality.svg" alt="Качество, интерфейсы и инструменты"><br><br>
   <img src="https://img.shields.io/badge/Pytest-0A0A0A?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="Pytest">&nbsp;
   <img src="https://img.shields.io/badge/Structlog-2E3436?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Structlog">&nbsp;
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus">&nbsp;
@@ -55,6 +70,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">&nbsp;
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&amp;logo=cursor&amp;logoColor=white" alt="Cursor">
 </p>
+</div>
 
 ---
 

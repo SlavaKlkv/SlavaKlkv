@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://github.com/user-attachments/assets/3c973497-8bb8-4753-8b20-6074eabf4205" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
 
 <p align="center">
-  <strong>Backend и API</strong><br><br>
+  <img src="assets/heading-backend.svg" alt="Backend и API"><br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">&nbsp;
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>AI и автоматизация</strong><br><br>
+  <img src="assets/heading-ai.svg" alt="AI и автоматизация"><br><br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain">&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">&nbsp;
   <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" alt="MCP">&nbsp;
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <strong>Данные и инфраструктура</strong><br><br>
+  <img src="assets/heading-data.svg" alt="Данные и инфраструктура"><br><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">&nbsp;
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">&nbsp;
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&amp;logo=qdrant&amp;logoColor=white" alt="Qdrant">&nbsp;
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <strong>Качество, интерфейсы и инструменты</strong><br><br>
+  <img src="assets/heading-quality.svg" alt="Качество, интерфейсы и инструменты"><br><br>
   <img src="https://img.shields.io/badge/Pytest-0A0A0A?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="Pytest">&nbsp;
   <img src="https://img.shields.io/badge/Structlog-2E3436?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Structlog">&nbsp;
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus">&nbsp;

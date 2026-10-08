@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://github.com/user-attachments/assets/3c973497-8bb8-4753-8b20-6074eabf4205" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/3a3bc626-2c5a-4c0b-b4e3-783911e77d90" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
 
 <div align="center">
 

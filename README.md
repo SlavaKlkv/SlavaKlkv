@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://github.com/user-attachments/assets/3a3bc626-2c5a-4c0b-b4e3-783911e77d90" width="28" height="28" align="top" alt=""> &nbsp;Технологии</h2>
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/technologies-dark.svg"><img src="assets/technologies-light.svg" width="28" height="28" align="top" alt=""></picture> &nbsp;Технологии</h2>
 
 <div align="center">
 
@@ -74,7 +74,7 @@ $\color{#8b949e}\textsf{Качество, интерфейсы и инструм
 
 ---
 
-<h2 align="center"><img src="https://github.com/user-attachments/assets/3963be3d-5bf1-4f85-aac1-32b338130763" width="28" height="28" align="top" alt=""> &nbsp;Компетенции</h2>
+<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/competencies-dark.svg"><img src="assets/competencies-light.svg" width="28" height="28" align="top" alt=""></picture> &nbsp;Компетенции</h2>
 
 | Область | Практический опыт |
 | --- | --- |

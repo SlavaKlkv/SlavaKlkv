@@ -27,7 +27,3 @@ env/
 .env.*
 !.env.example
 
-# Локальные исходники иллюстраций; иконки README — исключение
-assets/*
-!assets/*-light.svg
-!assets/*-dark.svg

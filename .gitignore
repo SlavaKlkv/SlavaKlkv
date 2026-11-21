@@ -7,6 +7,10 @@
 # Junie local memory
 .junie/
 
+# Local AI tool rules
+COMMON_RULES.md
+CODEX.md
+
 # Python
 __pycache__/
 *.py[cod]

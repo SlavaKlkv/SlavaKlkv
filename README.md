@@ -31,6 +31,7 @@ $\color{#8b949e}\textsf{AI и автоматизация}$
   <img src="https://img.shields.io/badge/Multimodal_AI-FF4081?style=flat-square" alt="Multimodal AI">&nbsp;
   <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&amp;logo=googledrive&amp;logoColor=white" alt="Google Drive API">&nbsp;
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram Bot API">&nbsp;
+  <img src="https://img.shields.io/badge/Telethon-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telethon">&nbsp;
   <img src="https://img.shields.io/badge/Tesseract_OCR-5A67D8?style=flat-square" alt="Tesseract OCR">
 </p>
 </div>
